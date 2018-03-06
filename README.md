@@ -1,4 +1,4 @@
-# Spring CXF Rest example
+# Spring JMS example
 
 ### Prerequisites
 
